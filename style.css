@@ -28,7 +28,7 @@ body {
 	min-width: 100%;
 	min-height: 100vh;
 	font-family: 'Minecraft', sans-serif;
-	background-image: url('assets/panorama.jpeg');
+	background-image: url('assets/panorama.png');
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: repeat-x;
