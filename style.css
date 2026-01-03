@@ -28,11 +28,11 @@ body {
 	min-width: 100%;
 	min-height: 100vh;
 	font-family: 'Minecraft', sans-serif;
-	background-image: url('assets/panorama.png');
+	background-image: url('assets/panorama.jpeg');
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: repeat-x;
-	animation: panorama 480s linear infinite;
+	animation: panorama 500s linear infinite;
 	margin: 0;
 	padding: 0;
 }
@@ -297,4 +297,5 @@ footer p {
 	color: cadetblue;
 	text-decoration: underline;
 }
+
 
